@@ -11,6 +11,7 @@ const completedInfo = document.querySelector("p");
 
 // My JS variables
 let completedCount = 0;
+const todoArray = [];
 
 btnAddTodo.addEventListener("click", function () {
 
